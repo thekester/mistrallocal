@@ -1,5 +1,5 @@
 
-# Mistral Model Inference
+# Install mistral-7B-v0.3 locally
 
 This project uses the Mistral model to generate responses based on text prompts. The script uses `tqdm` to display the progress of token generation.
 
