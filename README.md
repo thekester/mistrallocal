@@ -64,3 +64,10 @@ python path/to/your/script.py
 ## Notes
 
 - The token generation phase ("Generating tokens") is the most time-consuming part.
+
+
+### LICENSE
+
+The Mistral-7B-v0.3 model is a 7 billion parameter model, distributed under the Apache License 2.0. You can find more details about the license [here](https://github.com/openstack/mistral/blob/master/LICENSE).
+
+The project code is under the MIT license.
