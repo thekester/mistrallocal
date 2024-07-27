@@ -3,6 +3,8 @@
 
 This project uses the Mistral model to generate responses based on text prompts. The script uses `tqdm` to display the progress of token generation.
 
+![Code execution example](images/example.png)
+
 ## Prerequisites
 
 Make sure you have [Anaconda](https://www.anaconda.com/products/distribution) installed on your machine.
